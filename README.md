@@ -1,7 +1,7 @@
 ![제목을-입력해주세요_-001](https://user-images.githubusercontent.com/72931375/216500004-13d60fd9-bc85-49cc-84ea-a71098fe51e9.png)
 
 <div align="right" >
-<a href="https://github.com/imysh578"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbsghdql555&layout=compact&title_color=000000&bg_color="00000000" /></a> 
+<a href="https://github.com/imysh578"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hov-i&layout=compact&title_color=000000&bg_color="00000000" /></a> 
 
 # 📕 Learning Stack 📕
 
