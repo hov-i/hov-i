@@ -12,7 +12,7 @@ export const AboutMe = {
   profession: "Frontend Engineer @ GSIL",
 
   techStack: {
-    frameworks: ["React", "Vue 3", Next 16],
+    frameworks: ["React", "Vue 3", "Next 16"],
     stateManagement: ["Zustand", "Jotai", "React Query"],
     tooling: ["Storybook", "MSW", "SCSS", "Tailwind CSS", "Vite"],
   },
