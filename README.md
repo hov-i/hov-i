@@ -6,15 +6,17 @@
 [![포트폴리오](https://img.shields.io/badge/포트폴리오-hovi.kr-1abc9c?logo=vercel&logoColor=white&style=for-the-badge)](https://hovi.kr) 
 [![이메일](https://img.shields.io/badge/이메일-contact-3498db?logo=gmail&logoColor=white&style=for-the-badge)](mailto:dbsghdql55555@gmail.com)
 ```javascript
-const AboutMe = {
+export const AboutMe = {
   name: "윤홍비",
   nickname: "hov-i",
-  profession: "FrontEnd Engineer @ GSiL",
-  preferredTechStack: {
-    frameworks: ["React", "Vue3"],
-    state: ["Zustand", "Jotai", "React Query"],
-    tools: ["Storybook", "MSW", "SCSS", "TailwindCSS", "Vite"]
-  }
-};
+  profession: "Frontend Engineer @ GSIL",
+
+  techStack: {
+    frameworks: ["React", "Vue 3", Next 16],
+    stateManagement: ["Zustand", "Jotai", "React Query"],
+    tooling: ["Storybook", "MSW", "SCSS", "Tailwind CSS", "Vite"],
+  },
+} as const;
+
 
 ```
