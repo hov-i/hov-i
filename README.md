@@ -16,7 +16,6 @@ export const AboutMe = {
     stateManagement: ["Zustand", "Jotai", "React Query"],
     tooling: ["Storybook", "MSW", "SCSS", "Tailwind CSS", "Vite"],
   },
-} as const;
-
+}
 
 ```
